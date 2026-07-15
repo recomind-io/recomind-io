@@ -39,7 +39,7 @@ Results our team personally delivered building personalization at the largest sc
 | Leading super app, 6 markets | Click-through +170% | $256M |
 | Gaming marketplace | Search revenue +20.7%, recommendations +7.2% | $34M |
 
-Our founder spent ten years at Microsoft building recommendation systems and created [Recommenders](https://github.com/recommenders-team/recommenders), the top open-source library in the field, generating more than $500M in customer revenue.
+The creators of RecoMind spent ten years at Microsoft building recommendation systems and created [Recommenders](https://github.com/recommenders-team/recommenders), the top open-source library in the field, generating more than $500M in customer revenue.
 
 ## 💰 The ROI math
 
