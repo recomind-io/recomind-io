@@ -1,8 +1,6 @@
 <p align="center">
   <a href="https://recomind.io" target="_blank"><img src="https://img.shields.io/badge/Website-recomind.io-blue" /></a>
   <a href="https://demo.recomind.io" target="_blank"><img src="https://img.shields.io/badge/Demo-Try%20it%20live-blue" /></a>
-  <a href="https://platform.recomind.io" target="_blank"><img src="https://img.shields.io/badge/Dashboard-platform.recomind.io-blue" /></a>
-  <a href="https://api.recomind.io" target="_blank"><img src="https://img.shields.io/badge/API-api.recomind.io-blue" /></a>
 </p>
 
 # RecoMind
