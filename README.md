@@ -45,10 +45,4 @@ Our founder spent ten years at Microsoft building recommendation systems and cre
 
 For a store with 200,000 visitors a month: a +30% conversion lift, a +10% basket lift, and +10% traffic take annual revenue from $1.80M to $2.83M — over $1M a year from the same store. The lift lands on paid visitors too, so added traffic can pay for itself.
 
----
-
-<p align="center">
-  <a href="https://recomind.io">Website</a> · <a href="https://demo.recomind.io">Demo</a> · <a href="https://platform.recomind.io">Dashboard</a> · <a href="https://api.recomind.io">API</a> · <a href="mailto:info@recomind.io">info@recomind.io</a>
-</p>
-
 <!-- Note: this repository also hosts image assets referenced by raw URL from published social posts. Existing files must not be deleted or renamed. -->
